@@ -1,0 +1,4 @@
+This takes the input from Digital Color Meter on OSX and changes it from its original hard to use form, into something you can just paste into an editor 
+
+uses rgba(X, X, X, 1); format, if you want to change the opacity value just edit it within the file.
+
